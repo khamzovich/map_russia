@@ -1,4 +1,4 @@
 # map_russia
 plotly visualisations of russian region: COVID, density etc.
 
-<img src='/Images/sick_per_mln.png'>
+![iamge]<https://github.com/khamzovich/map_russia/tree/main/images/sick_per_mln.png>
